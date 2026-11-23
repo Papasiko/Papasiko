@@ -57,6 +57,8 @@ Currently exploring Machine Learning and Deep Learning while developing real-wor
 ### 📫 Connect With Me
 
 - **GitHub:** [@Papasiko](https://github.com/Papasiko)
+- hiradparsco.ir
+
 
 ---
 
