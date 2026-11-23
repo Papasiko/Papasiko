@@ -61,15 +61,6 @@ I enjoy turning ideas into usable products — from intelligent vision systems a
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Papasiko&show_icons=true&theme=tokyonight&hide_border=true" alt="Parsa's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papasiko&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 ### 📫 Connect
 
 - **GitHub:** [@Papasiko](https://github.com/Papasiko)
